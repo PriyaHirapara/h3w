@@ -24,6 +24,7 @@ public class switch_syntex {
                 break;
             case "c" :
                 System.out.println("grade c : " + 3000);
+                System.out.println("ds");
                 break;
             default:
                 System.out.println(" grade z :" + 100);
